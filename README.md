@@ -1,4 +1,4 @@
-# ptyhon-mongodb
+# python-mongodb
 Python scripts where you can find how  to connect to a MongoDB  and  move data between tables. 
 It includes logging traces configuration
 
