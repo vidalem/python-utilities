@@ -40,7 +40,7 @@ try:
     srv = pysftp.Connection(host="hostname",
                             username="username",
                             password="password",
-                            port=19019,
+                            port=19219,
                             cnopts=cnopts)
 
 
@@ -56,7 +56,7 @@ except Exception:
 
 
 
-os.chdir("/root/backups")
+os.chdir("/home/backups")
 
 
 files = glob.glob("*.gz")
