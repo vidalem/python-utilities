@@ -1,11 +1,10 @@
-# python-mongodb
-Python scripts where you can find how  to connect to a MongoDB  and  move data between tables. 
-It includes logging traces configuration
+# Useful python and shell scripts 
 
-
+Some useful Python scripts, (and one shell script)  where you can find some utilities like how to connect to a MongoDB  and  move data between tables, send sftp files, and make backups.
+They include logging traces configuration
 
 ## Environment
-Yo need to install the following modules to get scripts working:
+Yo need ge the following modules installed in your linux machine:
 
 ```
 Package      Version
@@ -33,3 +32,4 @@ six          1.11.0
 wheel        0.31.1 
 
 ```
+
